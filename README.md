@@ -32,6 +32,10 @@ Developed a Power BI dashboard with the following views and metrics to provide a
 
 5. An age profile bar chart highlighted that adults (18+ Months) face the longest waiting times, while younger patients generally experience shorter waits, suggesting prioritization differences.
 
+![Screenshot 2024-09-13 124532](https://github.com/user-attachments/assets/20e689cc-3e62-4506-a77e-1eb3b3f8eb66)
+
+![Screenshot 2024-09-13 124616](https://github.com/user-attachments/assets/8eebfc2a-bc6b-46ac-a93e-5a174311cab9)
+
 ## Result:
 
 The analysis provided critical insights into the current and historical states of patient waiting lists:
