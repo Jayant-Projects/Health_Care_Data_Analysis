@@ -1,5 +1,7 @@
 # Healthcare-Waiting-List-Analysis
 
+### Live Dashboard: [Link]
+
 ## Situation:
 
 Healthcare systems globally are grappling with increased patient waiting lists, particularly due to disruptions caused by the COVID-19 pandemic. These delays have strained resources, affecting the timely delivery of services across various specialties. Our objective was to provide a comprehensive analysis of patient waiting lists from 2018 to 2021 to uncover key insights and areas needing immediate attention.
