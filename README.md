@@ -2,21 +2,21 @@
 
 ![Credit](https://github.com/user-attachments/assets/602276a8-d2a3-4455-928c-e55120152a55)
 
-### Live Dashboard: [Link]
+### Live Dashboard: [Link][https://mavenanalytics.io/project/19879]
 
 ## Situation:
 
-Healthcare systems globally are grappling with increased patient waiting lists, particularly due to disruptions caused by the COVID-19 pandemic. These delays have strained resources, affecting the timely delivery of services across various specialities. Our objective was to provide a comprehensive analysis of patient waiting lists from 2018 to 2021 to uncover key insights and areas needing immediate attention.
+Healthcare systems globally are grappling with increased patient waiting lists, particularly due to disruptions caused by the COVID-19 pandemic. These delays have strained resources, affecting the timely delivery of services across various specialities. Our objective was to comprehensively analyse patient waiting lists from 2018 to 2021 to uncover key insights and areas needing immediate attention.
 
 ## Task:
 
 The project aimed to address three main goals:
 
-1. **Track the Current Status of Patient Waiting Lists**: Understand and report the current backlog of patients segmented by categories such as Inpatient, Outpatient, and Day Case.
+1. **Track the Current Status of Patient Waiting Lists**: Understand and report the current backlog of patients segmented by Inpatient, Outpatient, and Day Case categories.
 
 2. **Analyze Historical Trends**: Evaluate monthly changes in waiting lists to identify key periods of increase, potential bottlenecks, and areas where healthcare systems are most strained.
 
-3. **Specialty and Age Profile Analysis**: Provide a detailed breakdown of wait times across different specialties and age groups to highlight which services and demographics are most affected.
+3. **Specialty and Age Profile Analysis**: Provide a detailed breakdown of wait times across different specialities and age groups to highlight which services and demographics are most affected.
 
 To achieve these objectives, the analysis utilized data from 2018 to 2021, focusing on key metrics such as average and median waiting times and total patient counts on waiting lists.
 
@@ -26,11 +26,11 @@ Developed a Power BI dashboard with the following views and metrics to provide a
 
 1. This dashboard provides an overview of the current status of the waiting lists, highlighting key metrics such as the latest month’s waiting list size (709K) and a year-over-year comparison (640K last year).
 
-2. A donut chart visualizes the breakdown of patients by case type, showing that Outpatients constitute 72.49% of the total waiting list, Day Cases account for 16.89%, and Inpatients make up 10.62%.
+2. A doughnut chart visualizes the breakdown of patients by case type, showing that Outpatients constitute 72.49% of the total waiting list, Day Cases account for 16.89%, and Inpatients make up 10.62%.
 
 3. A line graph illustrates historical trends in waiting lists for Inpatient and Day Case categories, revealing a steady increase from 2018, with significant spikes around early to mid-2020.
 
-4. Specialty-specific insights were provided through a breakdown of average waiting lists by specialty, identifying Accident & Emergency, Paediatric Cardiology, and Paediatric Orthopaedics as key areas with high wait times.
+4. Specialty-specific insights were provided through a breakdown of average waiting lists by speciality, identifying Accident & Emergency, Paediatric Cardiology, and Paediatric Orthopaedics as key areas with high wait times.
 
 5. An age profile bar chart highlighted that adults (18+ Months) face the longest waiting times, while younger patients generally experience shorter waits, suggesting prioritization differences.
 
