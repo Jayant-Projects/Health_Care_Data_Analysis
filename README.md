@@ -2,7 +2,7 @@
 
 ![Credit](https://github.com/user-attachments/assets/602276a8-d2a3-4455-928c-e55120152a55)
 
-### Live Dashboard: [Link][https://mavenanalytics.io/project/19879]
+### Live Dashboard: [Link](https://mavenanalytics.io/project/19879)
 
 ## Situation:
 
